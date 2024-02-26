@@ -1,6 +1,6 @@
-Mariia Zhukova (Manual QA Engineer)
-Phone: +421 952 029 452
-E-mail: mariia.zhukova00@gmail.com
+Mariia Zhukova (Manual QA Engineer)<br>
+Phone: +421 952 029 452<br>
+E-mail: mariia.zhukova00@gmail.com<br>
 Location: Bratislava, Slovakia
 
 ## Introduction
@@ -11,7 +11,7 @@ Always striving to learn, improve my skills, and achieve goals.
 
 ## Experience
 
-`Apr 2023` -- `Jan 2024` (9 months) at `Pension fund of Ukraine`.
+`Apr 2023` — `Jan 2024` (9 months) at `Pension fund of Ukraine`.<br>
 I worked in one of the branches of the Pension fund of Ukraine, which implements the state policy on pension issues.
 
 Responsibilities:
@@ -24,7 +24,9 @@ Achievements:
 - Quick response and resolution of various urgent assignments.
 - Ability to communicate professionally and positively with citizens and resolve problems that arise.
 
-`Nov 2022` -- `Mar 2023` (4 months) at `Izmail College No. 8`.
+---
+
+`Nov 2022` — `Mar 2023` (4 months) at `Izmail College No. 8`.<br>
 I worked at an educational institution as an assistant accountant and has been promoted to chief accountant.
 
 Responsibilities:
@@ -36,7 +38,9 @@ Achievements:
 - Successful completion of tax and external audits.
 - Helped optimizing cooperation of departments responsible for reporting of travel expenses.
 
-`Aug 2018 -- Sep 2020` (2 years, 4 months) at `GROUND WAR: TANKS`.
+---
+
+`Aug 2018 — Sep 2020` (2 years, 4 months) at `GROUND WAR: TANKS`.<br>
 I worked on a game project about dynamic tank battles as a creative social media manager.
 
 Responsibilities:
@@ -51,7 +55,9 @@ Achievements:
 - I was the project's main streamer.
 - Increased the variety of content published on social media.
 
-`Apr 2015` -- `Nov 2022` (7 years, 7 months) at `Oschadbank`.
+---
+
+`Apr 2015` — `Nov 2022` (7 years, 7 months) at `Oschadbank`.<br>
 I worked in one of the largest financial institutions of Ukraine with the most extensive network of institutions.
 
 Responsibilities:
@@ -93,7 +99,7 @@ Achievements:
 
 ## The books I'm going to read
 
-- [The Complete Software Tester: Concepts, Skills, and Strategies for High-Quality Testing](https://www.goodreads.com/book/show/59831903-the-complete-software-tester) by Kristin Jackvony
+- [The Complete Software Tester](https://www.goodreads.com/book/show/59831903-the-complete-software-tester) by Kristin Jackvony
 - [Software Testing](https://www.goodreads.com/book/show/1543131.Software_Testing) by Ron Patton
-- [Джедайские техники: Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо](https://www.goodreads.com/book/show/34656521) by Максим Дорофеев
-- [Отъявленный программист: лайфхакинг из первых рук](https://www.goodreads.com/book/show/26085784) by Игорь Савчук
+- [Джедайские техники](https://www.goodreads.com/book/show/34656521) by Максим Дорофеев
+- [Отъявленный программист](https://www.goodreads.com/book/show/26085784) by Игорь Савчук
