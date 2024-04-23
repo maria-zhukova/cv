@@ -1,5 +1,5 @@
 Mariia Zhukova (Manual QA Engineer)<br>
-Phone: +421 952 029 452 / +380 098 453 8012 <br>
+Phone: +421 952 029 452 / +380 98 453 8012 <br>
 E-mail: mariia.zhukova00@gmail.com<br>
 Location: Bratislava, Slovakia
 
