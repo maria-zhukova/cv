@@ -88,7 +88,7 @@ Achievements:
 
 - Ukrainian: `Native`
 - Russian: `Native`
-- English: `A2 Pre-intermediate`
+- English: `B1`
 
 ## Hobbies
 
