@@ -76,13 +76,21 @@ Achievements:
 - Course [Clean Code](https://cleancoders.com/series/clean-code) by Robert C. Martin, Jan 2021
 - International Academy of HR Management, Bachelor's degree in `Economics and HR Management`, Jun 2020, Izmail
 - Kyiv State Academy of Water Transport, Associate degree in `Business Economics`, Feb 2015, Izmail
-
+  
+## Courses
+- Lviv IT School 115  "Fundamentals of software testing"
+- AI Fundamentals Online Course
+- BASICS OF USING GIT
+  
 ## Skills
 
 - Adobe Photoshop
 - Adobe After Effects / Sony Vegas / VSDC
 - Microsoft Office
 - M.E.Doc (accounting software)
+- Linux KDE
+- Jira
+- Python(first level)
 
 ## Languages
 
