@@ -81,6 +81,9 @@ Achievements:
 - Lviv IT School 115  "Fundamentals of software testing"
 - AI Fundamentals Online Course
 - BASICS OF USING GIT
+- API Basics
+- Linux Basics
+- Python basics
   
 ## Skills
 
